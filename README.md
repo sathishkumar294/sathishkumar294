@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sathishkumar294
 - 👀 I’m interested in Aerospace, Enterprise System and functional architecture, rapid prototyping, Java, Spring, Graph DB (Neo4j), GraphQL, Angular, React, Vue, Google APIs,
-- 🌱 I’m currently learning System design
+- 🌱 I’m currently learning and applying System Engineering principles
 - 💞️ I’m looking to collaborate on projects that contribute to society and sustainability
 - 📫 How to reach me? At sathishkumar.aero51@gmail.com
 
